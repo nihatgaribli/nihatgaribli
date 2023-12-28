@@ -51,6 +51,9 @@
   <a href="https://www.instagram.com/nihatgaribli/?hl=tr" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+   <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
+  </a>
 </div>
 
  
