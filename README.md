@@ -8,7 +8,7 @@
 
 
 <div id="header" align="left">
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
