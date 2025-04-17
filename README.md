@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D5FC8&title_bg=%23DF1818&icon=instagram.svg&icon_color=%23E7E7E7&title=&edge_flat=false" align="right"/></a>
+<a href="https://hits.seeyoufarm.com"></a>
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=nihatgaribli&&style=plastics&&color=yellow" align="right"/> </p>
