@@ -25,7 +25,7 @@
 <!--<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo-thumbnail.png" alt="html5" width="40" height="40"/> </a> -->
 
-<a href="[https://www.w3schools.com/cpp/](https://docs.pytorch.org/tutorials/beginner/pytorch_with_examples.html)" target="_blank" rel="noreferrer"> <img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/250px-PyTorch_logo_black.svg.png" alt="pytorch" width="40" height="40"/></a>
+<a href="https://docs.pytorch.org/tutorials/beginner/pytorch_with_examples.html" target="_blank" rel="noreferrer"> <img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/250px-PyTorch_logo_black.svg.png" alt="pytorch" width="40" height="40"/></a>
 
 
 
