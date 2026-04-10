@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=nihatgaribli&style=flat-square&color=58a6ff" alt="Profile Views"/>
 </p>
 
-***
+---
 
 ## 🤖 AI & Machine Learning
 
@@ -34,7 +34,7 @@
 | 📐 **Math for AI** | Linear algebra, probability theory, optimization, graph theory |
 | 🧩 **Origami + AI** | Tessellation pattern recognition — unique intersection of math & ML |
 
-***
+---
 
 ## 💻 Languages & Tools
 
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-***
+---
 
 ## 🔬 Research Interests
 
@@ -71,7 +71,7 @@
 - 📊 **Graph Theory** — combinatorics, network analysis, algorithmic graph problems
 - 👁 **Computer Vision** — geometric pattern recognition, image analysis
 
-***
+---
 
 ## 📊 GitHub Stats
 
@@ -84,11 +84,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatgaribli&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff" alt="Top Languages" />
 </p>
 
-***
+---
 
 ## 🐍 Contribution Graph
+
 ![Snake animation](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-***
+
+---
 
 ## 🔗 Connect With Me
 
@@ -113,7 +115,7 @@
   </a>
 </p>
 
-***
+---
 
 <p align="center">
   <i>"Mathematics is not about numbers, equations, or algorithms — it is about understanding." — W. P. Thurston</i>
