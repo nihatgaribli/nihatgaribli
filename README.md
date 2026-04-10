@@ -78,19 +78,19 @@ My work combines computer vision, graph theory, optimization, and data-driven ex
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nihat-q%C9%99ribli-001115244/">
+  <a href="https://www.linkedin.com/in/nihatgaribli/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nihatqeribli25@gmail.com">
+  <a href="mailto:nihatgrb25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://twitter.com/gaar1bli">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.instagram.com/nihatgaribli/">
+  <a href="https://www.instagram.com/nihatgariblii/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@nihatqeribli5678">
+  <a href="https://www.youtube.com/@nihatgaribli25">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
