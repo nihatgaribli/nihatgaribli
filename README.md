@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,45:1C2541,100:5BC0BE&text=Nihat%20Garibli&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=EAFDFC&desc=AI%20Researcher%20%7C%20Applied%20Mathematics%20%7C%20Computer%20Vision&descAlign=50&descAlignY=58" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,45:1C2541,100:5BC0BE&text=Nihat%20Garibli&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=EAFDFC&desc=Computer%20Science%20Student%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Algorithms&descAlign=50&descAlignY=58" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2300&pause=850&color=5BC0BE&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+for+real-world+impact;Researching+AI+%2B+mathematical+structures;Computer+Vision+%7C+Graph+Theory+%7C+Data+Science;Open+to+research+and+engineering+collaborations" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2300&pause=850&color=5BC0BE&center=true&vCenter=true&width=900&lines=Computer+Science+student+focused+on+practical+impact;Data+Analytics+%7C+Machine+Learning+%7C+Algorithms;Python+%7C+C%2B%2B+%7C+SQL;Open+to+research+and+engineering+collaborations" alt="Typing animation" />
   </a>
 </p>
 
@@ -16,14 +16,47 @@
 
 ## About Me
 
-I am an AI enthusiast from Baku, Azerbaijan, focused on connecting deep learning with mathematical thinking.
-My work combines computer vision, graph theory, optimization, and data-driven experimentation.
+Results-driven Computer Science student from Baku, Azerbaijan, with hands-on experience in data analysis, competitive programming, and algorithm development.
+I enjoy building practical, data-driven solutions and applying mathematical thinking to real engineering problems.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Base-Baku%2C%20Azerbaijan-1C2541?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Research-0B132B?style=flat-square&logo=googlescholar&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis%20%26%20AI-0B132B?style=flat-square&logo=googlescholar&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-5BC0BE?style=flat-square&logo=handshake&logoColor=0B132B" alt="Open To" />
 </p>
+
+## Education
+
+- **B.Sc. in Computer Science (SABAH)**, Baku State University, Azerbaijan (09/2022 - Present)  
+  GPA: **92.8/100** (Expected Distinction)
+- **B.Sc. in Computer Science (Dual Degree Program)**, Holon Institute of Technology, Israel (10/2025 - Present)
+
+## Experience
+
+- **Technician**, Baku State University (TETYM) | Baku, Azerbaijan | 01/2025 - 10/2025
+  - Conducted analysis on operational and project-related datasets to generate actionable insights.
+  - Prepared reports and dashboards to support data-driven decisions.
+- **Project Management Intern**, You Will Speak BSU | Baku, Azerbaijan | 03/2023 - 07/2023
+  - Assisted in planning and coordination of student project timelines.
+  - Monitored progress and prepared weekly reports for supervisors.
+  - Supported event organization and increased student participation by 20%.
+
+## Certifications
+
+- **OCI 2025 Certified AI Foundations Associate** (Oracle University, 03/2025 - 07/2025)
+- **Advanced Computer Science Skills** (Constructor University & IDDA, 08/2024 - 12/2024)
+- **Advanced Python Programming** (University of Michigan - Coursera, 01/2024 - 05/2024)
+- **Python Data Analytics** (Meta - Coursera, 04/2024 - 07/2024)
+
+## Awards and Highlights
+
+- Winner, **ICPC Azerbaijan Qualification Stage** and **ICPC Azerbaijan Regional Contest**
+- 1st place, **R.M 90 Programming Competition**
+- 2nd place, **Robotex Turkey - Antalya Championship** (Health Sciences & Technologies)
+- 3rd place, **Robotex Azerbaijan - Eurasia Championship** (Software Technologies)
+- Finalist, **IDDA Cup 2024 Programming Olympiad**
+- Qualified for **Robotex World Finals** and invited to robotics olympiads
+- Presenter, **FICS 2024 Azerbaijan Pitching Event**
 
 ## Skill Galaxy
 
@@ -49,7 +82,7 @@ My work combines computer vision, graph theory, optimization, and data-driven ex
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,anaconda,mysql,git,github,vscode,linux&perline=11" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,sklearn,mysql,git,github,vscode,linux&perline=11" alt="Tech Stack" />
 </p>
 
 <p align="center">
