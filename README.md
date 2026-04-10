@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,45:1C2541,100:5BC0BE&text=Nihat%20Garibli&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=EAFDFC&desc=Computer%20Science%20Student%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Algorithms&descAlign=50&descAlignY=58" alt="Header" />
+  <img src="assets/header.svg" alt="Header" />
 </p>
 
 <p align="center">
