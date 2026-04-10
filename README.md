@@ -84,7 +84,7 @@ My work combines computer vision, graph theory, optimization, and data-driven ex
   <a href="mailto:nihatgrb25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/gaar1bli">
+  <a href="https://x.com/gaar1bli">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.instagram.com/nihatgariblii/">
