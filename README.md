@@ -25,20 +25,37 @@ My work combines computer vision, graph theory, optimization, and data-driven ex
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-5BC0BE?style=flat-square&logo=handshake&logoColor=0B132B" alt="Open To" />
 </p>
 
-## Core Expertise
+## Skill Galaxy
 
-| Area | What I Work On |
-|---|---|
-| Machine Learning | Feature engineering, model evaluation, classical ML pipelines |
-| Deep Learning | PyTorch, TensorFlow, CNNs, transfer learning, optimization |
-| Computer Vision | OpenCV, image analysis, geometric pattern recognition |
-| Data Science | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| Mathematical Modeling | Graph theory, combinatorics, probability, linear algebra |
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-00A6FB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-0582CA?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Advanced-006494?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Graph%20Theory-Advanced-003554?style=for-the-badge&logo=databricks&logoColor=white" alt="Graph Theory" />
+  <img src="https://img.shields.io/badge/Data%20Science-Advanced-051923?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Optimization-Intermediate-2A9D8F?style=for-the-badge&logo=target&logoColor=white" alt="Optimization" />
+</p>
+
+| Track | Toolkit | Signature Work |
+|---|---|---|
+| AI Engineering | Python, scikit-learn, XGBoost | End-to-end ML pipelines and reliable evaluation |
+| Deep Learning | PyTorch, TensorFlow | CNN and transfer learning for vision problems |
+| Vision + Geometry | OpenCV, NumPy | Geometric pattern detection and image analysis |
+| Math for AI | Graph theory, probability, linear algebra | Bridging theory with practical AI systems |
 
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,anaconda,mysql,git,github,vscode,linux&perline=11" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Focus-Multimodal%20Vision-5BC0BE?style=flat-square" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Research%20Direction-Graph%20Intelligence-3A86FF?style=flat-square" alt="Research Direction" />
+  <img src="https://img.shields.io/badge/Building-Production%20Ready%20AI-FFB703?style=flat-square" alt="Building" />
 </p>
 
 ## GitHub Analytics
@@ -61,7 +78,7 @@ My work combines computer vision, graph theory, optimization, and data-driven ex
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nihat-qəribli-001115244/">
+  <a href="https://www.linkedin.com/in/nihat-q%C9%99ribli-001115244/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nihatqeribli25@gmail.com">
@@ -82,45 +99,4 @@ My work combines computer vision, graph theory, optimization, and data-driven ex
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,100:5BC0BE&height=2&section=footer" alt="divider" />
 </p>
 
-<p align="center"><i>"Mathematics is not about numbers, equations, or algorithms. It is about understanding." — W. P. Thurston</i></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihatgaribli&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=bc8cff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatgaribli&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff" alt="Top Languages" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.youtube.com/@nihatqeribli5678">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nihat-qəribli-001115244/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nihatqeribli25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/gaar1bli">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/nihatgaribli/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Mathematics is not about numbers, equations, or algorithms — it is about understanding." — W. P. Thurston</i>
-</p>
+<p align="center"><i>"Mathematics is not about numbers, equations, or algorithms. It is about understanding." - W. P. Thurston</i></p>
