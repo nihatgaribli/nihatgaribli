@@ -86,8 +86,12 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nihatgaribli&show_icons=true&theme=transparent&hide_border=true&title_color=5BC0BE&icon_color=3A86FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatgaribli&layout=compact&theme=transparent&hide_border=true&title_color=5BC0BE&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/nihatgaribli/nihatgaribli/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nihatgaribli/nihatgaribli/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/nihatgaribli/nihatgaribli/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
