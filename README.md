@@ -23,7 +23,7 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 - 🎓 BSc Computer Science @ **Baku State University** — dual degree with **Holon Institute of Technology** (GPA 93.21)
 - 🔬 Currently exploring **multimodal vision** and **graph intelligence**
 - 🎯 Open to **research collaborations** and **AI/ML engineering internships**
-- 📫 Reach me at **nihatgrb25@gmail.com**
+- 📫 Reach me at **nihatqeribli25@gmail.com**
 - 🧾 ORCID: [0009-0003-4755-6356](https://orcid.org/0009-0003-4755-6356)
 
 <p align="left">
@@ -112,7 +112,7 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nihatgaribli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nihatgrb25@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:nihatqeribli25@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://x.com/gaar1bli"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/nihatgariblii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@nihatgaribli25"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
