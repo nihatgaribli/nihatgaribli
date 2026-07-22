@@ -18,9 +18,9 @@
 
 ## 👋 About Me
 
-I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State University)** and **Israel, Holon (Holon Institute of Technology)**, working at the intersection of **deep learning and mathematical structure**. My interests span computer vision, graph theory, optimization, and data-driven experimentation — building systems that are both principled and useful.
+I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State University)** and **Israel, Holon (Holon Institute of Technology)**, working at the intersection of **deep learning and mathematical structure**. My interests span computer vision, graph theory, optimization, and data-driven experimentation building systems that are both principled and useful.
 
-- 🎓 BSc Computer Science @ **Baku State University** — dual degree with **Holon Institute of Technology** (GPA 93.21)
+- 🎓 BSc Computer Science @ **Baku State University** - dual degree with **Holon Institute of Technology** (GPA 94.56)
 - 🔬 Currently exploring **multimodal vision** and **graph intelligence**
 - 🎯 Open to **research collaborations** and **AI/ML engineering internships**
 - 📫 Reach me at **nihatqeribli25@gmail.com**
@@ -41,7 +41,7 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 | [**IBM Granite Soccer Analyst**](https://github.com/nihatgaribli/IBMGraniteSoccerAnalyst) | Voronoi spatial analytics + an explainable-AI tactical analyst powered by the IBM Granite LLM | Python · LLM · Geometry |
 | [**Origami Recognition System**](https://github.com/nihatgaribli/origami-recognition-system) | Computer-vision pipeline that detects and classifies origami folds and patterns | Python · OpenCV |
 | [**MNIST Digit Recognition (ANN)**](https://github.com/nihatgaribli/machine-learning-mnist-ann) | Feed-forward neural network for handwritten-digit classification on MNIST | Jupyter · TensorFlow |
-| [**Data Science from Scratch**](https://github.com/nihatgaribli/data-science-tasks) | Core ML algorithms — K-Means, GMM, SVM — implemented from first principles | Python · NumPy |
+| [**Data Science from Scratch**](https://github.com/nihatgaribli/data-science-tasks) | Core ML algorithms K-Means, GMM, SVM implemented from first principles | Python · NumPy |
 | [**Competitive Programming**](https://github.com/nihatgaribli?tab=repositories&q=&type=&language=c%2B%2B) | Solutions across [Codeforces](https://github.com/nihatgaribli/Codeforces), [CSES](https://github.com/nihatgaribli/CSES) and [Eolymp](https://github.com/nihatgaribli/Eolymp) | C++ · Algorithms |
 
 ---
@@ -49,8 +49,8 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 ## 🏆 Achievements & Highlights
 
 - 🥇 **7+ awards & honors** across competitions and programs
-- 💻 **ICPC (Azerbaijan)** — competitive programming
-- 🤖 **Robotex** — robotics competition placements
+- 💻 **ICPC (Azerbaijan)** - competitive programming
+- 🤖 **Robotex** - robotics competition placements
 - 🧪 Hackathon participant with hands-on data-analysis experience
 
 ---
