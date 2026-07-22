@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State University)**, working at the intersection of **deep learning and mathematical structure**. My interests span computer vision, graph theory, optimization, and data-driven experimentation — building systems that are both principled and useful.
+I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State University)** and **Israel, Holon (Holon Institute of Technology)**, working at the intersection of **deep learning and mathematical structure**. My interests span computer vision, graph theory, optimization, and data-driven experimentation — building systems that are both principled and useful.
 
 - 🎓 BSc Computer Science @ **Baku State University** — dual degree with **Holon Institute of Technology** (GPA 93.21)
 - 🔬 Currently exploring **multimodal vision** and **graph intelligence**
