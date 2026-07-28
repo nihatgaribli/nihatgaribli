@@ -23,7 +23,7 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 - 🎓 BSc Computer Science @ **Baku State University** - dual degree with **Holon Institute of Technology** (GPA 94.56)
 - 🔬 Currently exploring **multimodal vision** and **graph intelligence**
 - 🎯 Open to **research collaborations** and **AI/ML engineering internships**
-- 📫 Reach me at **nihatqeribli25@gmail.com**
+- 📫 Reach me at **nihatgaribli25@gmail.com**
 - 🧾 ORCID: [0009-0003-4755-6356](https://orcid.org/0009-0003-4755-6356)
 
 <p align="left">
