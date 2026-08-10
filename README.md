@@ -22,8 +22,9 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 
 - 🎓 BSc Computer Science @ **Baku State University** - dual degree with **Holon Institute of Technology** (GPA 94.56)
 - 🔬 Currently exploring **multimodal vision** and **graph intelligence**
+- 🇦🇿 Building **[AZ-Eval](https://github.com/nihatgaribli/AZ-Eval)** — an open Azerbaijani–English LLM benchmark, the first of its kind for the language
 - 🎯 Open to **research collaborations** and **AI/ML engineering internships**
-- 📫 Reach me at **nihatgaribli25@gmail.com**
+- 📫 Reach me at **nihatqeribli25@gmail.com**
 - 🧾 ORCID: [0009-0003-4755-6356](https://orcid.org/0009-0003-4755-6356)
 
 <p align="left">
@@ -38,6 +39,7 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**AZ-Eval**](https://github.com/nihatgaribli/AZ-Eval) | Open parallel Azerbaijani–English LLM benchmark (*n* = 356) with the full evaluation pipeline that produced it — measures how multilingual models lose a low-resource language | Python · LLM Eval · NLP |
 | [**IBM Granite Soccer Analyst**](https://github.com/nihatgaribli/IBMGraniteSoccerAnalyst) | Voronoi spatial analytics + an explainable-AI tactical analyst powered by the IBM Granite LLM | Python · LLM · Geometry |
 | [**Origami Recognition System**](https://github.com/nihatgaribli/origami-recognition-system) | Computer-vision pipeline that detects and classifies origami folds and patterns | Python · OpenCV |
 | [**MNIST Digit Recognition (ANN)**](https://github.com/nihatgaribli/machine-learning-mnist-ann) | Feed-forward neural network for handwritten-digit classification on MNIST | Jupyter · TensorFlow |
