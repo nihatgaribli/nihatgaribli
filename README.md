@@ -40,7 +40,8 @@ I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State Univers
 | Project | What it does | Stack |
 |---|---|---|
 | [**AZ-Eval**](https://github.com/nihatgaribli/AZ-Eval) | Open parallel Azerbaijani–English LLM benchmark (*n* = 356) with the full evaluation pipeline that produced it — measures how multilingual models lose a low-resource language | Python · LLM Eval · NLP |
-| [**IBM Granite Soccer Analyst**](https://github.com/nihatgaribli/IBMGraniteSoccerAnalyst) | Voronoi spatial analytics + an explainable-AI tactical analyst powered by the IBM Granite LLM | Python · LLM · Geometry |
+| [**Soccer Tactical Analysis**](https://github.com/nihatgaribli/soccer-tactical-analysis) | Voronoi spatial analytics + an explainable-AI tactical analyst powered by the IBM Granite LLM | Python · LLM · Geometry |
+| [**Apar Feedback Routing**](https://github.com/nihatgaribli/apar-feedback-routing) | Multilingual AZ/RU/EN support-ticket routing — TF-IDF baseline to XLM-R blend at 0.9186 macro-F1, CPU-only inference under a 600M-parameter budget | Python · XLM-R · ONNX |
 | [**Origami Recognition System**](https://github.com/nihatgaribli/origami-recognition-system) | Computer-vision pipeline that detects and classifies origami folds and patterns | Python · OpenCV |
 | [**MNIST Digit Recognition (ANN)**](https://github.com/nihatgaribli/machine-learning-mnist-ann) | Feed-forward neural network for handwritten-digit classification on MNIST | Jupyter · TensorFlow |
 | [**Data Science from Scratch**](https://github.com/nihatgaribli/data-science-tasks) | Core ML algorithms K-Means, GMM, SVM implemented from first principles | Python · NumPy |
