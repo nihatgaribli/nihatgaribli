@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I am an AI researcher and CS student from **Baku, Azerbaijan (Baku State University)** and **Israel, Holon (Holon Institute of Technology)**, working at the intersection of **deep learning and mathematical structure**. My interests span low-resource NLP, computer vision, graph theory and optimization, with a focus on careful evaluation and reproducible results.
+I am an AI researcher and Computer Science student based in **Baku, Azerbaijan**, studying at **Baku State University** in a dual-degree program with **Holon Institute of Technology** (Israel). I work at the intersection of **deep learning and mathematical structure**, with interests in low-resource NLP, computer vision, graph theory and optimization, and a focus on careful evaluation and reproducible results.
 
 - 🔬 **AI Researcher** @ Baku State University
 - 🏆 **ICPC Coach** @ Baku State University
