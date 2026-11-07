@@ -18,14 +18,15 @@
 
 ## 👋 About Me
 
-I am an AI researcher and Computer Science student based in **Baku, Azerbaijan**, studying at **Baku State University** in a dual-degree program with **Holon Institute of Technology** (Israel). I work at the intersection of **deep learning and mathematical structure**, with interests in low-resource NLP, computer vision, graph theory and optimization, and a focus on careful evaluation and reproducible results.
+I'm an AI Researcher at **Baku State University** and an MSc student in **Knowledge Acquisition Systems** at **Azerbaijan Technical University**. I earned my BSc in Computer Science at Baku State University and am completing a dual degree with **Holon Institute of Technology** (Israel). I work where mathematics meets applied AI: I like problems where a clean mathematical formulation tells you what a model can and cannot learn.
 
 - 🔬 **AI Researcher** @ Baku State University
 - 🏆 **ICPC Coach** @ Baku State University
 - 👨‍🏫 **C++ & Algorithms Instructor** @ Codemy
+- 🎓 MSc in Knowledge Acquisition Systems @ **Azerbaijan Technical University**
 - 🎓 BSc Computer Science @ **Baku State University**, dual degree with **Holon Institute of Technology** (GPA 94.56)
 - 🇦🇿 Building **[AZ-Eval](https://github.com/nihatgaribli/AZ-Eval-benchmark)**, an open parallel Azerbaijani-English LLM benchmark
-- 🎯 Open to **research collaborations** and **AI/ML roles**
+- 🎯 Open to **research collaborations**, **AI/ML engineering roles** and **conference connections**
 - 📫 Reach me at **nihatgaribli25@gmail.com**
 - 🧾 ORCID: [0009-0003-4755-6356](https://orcid.org/0009-0003-4755-6356)
 
