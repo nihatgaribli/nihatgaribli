@@ -136,6 +136,8 @@ I'm an AI Researcher at **Baku State University** and an MSc student in **Knowle
   <a href="https://www.instagram.com/nihatgaribi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@nihatgaribli25"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://orcid.org/0009-0003-4755-6356"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=12783483"><img src="https://img.shields.io/badge/SSRN-1F4E79?style=for-the-badge&logo=elsevier&logoColor=white" alt="SSRN" /></a>
+  <a href="https://nihatgariblii.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 <p align="center">
