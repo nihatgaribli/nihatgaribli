@@ -24,7 +24,7 @@ I'm an AI Researcher at **Baku State University** and an MSc student in **Knowle
 - 🏆 **ICPC Coach** @ Baku State University
 - 👨‍🏫 **C++ & Algorithms Instructor** @ Codemy
 - 🎓 MSc in Knowledge Acquisition Systems @ **Azerbaijan Technical University**
-- 🎓 BSc Computer Science @ **Baku State University**, dual degree with **Holon Institute of Technology** (GPA 94.56)
+- 🎓 BSc Computer Science @ **Baku State University**, dual degree with **Holon Institute of Technology** (GPA 93.21)
 - 🇦🇿 Building **[AZ-Eval](https://github.com/nihatgaribli/AZ-Eval-benchmark)**, an open parallel Azerbaijani-English LLM benchmark
 - 🎯 Open to **research collaborations**, **AI/ML engineering roles** and **conference connections**
 - 📫 Reach me at **nihatgaribli25@gmail.com**
